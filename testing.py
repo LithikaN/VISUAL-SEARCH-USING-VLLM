@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Mar 31 12:45:43 2025
 
-@author: lithi
-"""
 
 import requests
 
