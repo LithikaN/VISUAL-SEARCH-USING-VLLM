@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Mar 31 12:44:19 2025
 
-@author: lithi
-"""
 
 from flask import Flask, request, jsonify
 
